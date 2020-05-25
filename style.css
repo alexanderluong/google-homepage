@@ -13,3 +13,12 @@
 .center {
     width: 100%;
 }
+
+.button {
+    color: #61656A;
+    background-color: #F2F2F2;
+    padding: 9px 14px;
+    border: none;
+    border-radius: 4px;
+    /* TODO: add margin */
+}
