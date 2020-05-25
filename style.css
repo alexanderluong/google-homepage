@@ -1,5 +1,6 @@
-.body {
+body {
   font-family: arial, sans-serif;
+  font-size: 13px;
 }
 
 #google-logo {
@@ -24,5 +25,6 @@
   padding: 9px 14px;
   border: none;
   border-radius: 4px;
-  /* TODO: add margin */
+  font-size: 14px;
+  margin: 3px;
 }
