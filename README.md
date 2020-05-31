@@ -10,6 +10,6 @@ A small project inspired by the [The Odin Project](https://www.theodinproject.co
 
 ## Things to Add:
 
-[ ] Icons in searchbar (magnifying glass and microphone)
-[ ] Icon beside avatar (square thing)
-[ ] Hover effects on buttons
+- [ ] Icons in searchbar (magnifying glass and microphone)
+- [ ] Icon beside avatar (square thing)
+- [ ] Hover effects on buttons
