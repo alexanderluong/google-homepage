@@ -6,7 +6,7 @@ A small project inspired by the [The Odin Project](https://www.theodinproject.co
 
 ## Preview
 
-[Preview Image](images/google-preview.png)
+![Preview Image](images/google-preview.png)
 
 ## Things to Add:
 
