@@ -100,13 +100,32 @@ ul {
 
 .footer {
   color: rgba(0, 0, 0, 0.54);
-  display: block;
+  margin-left: -10px;
+}
+
+.footer ul {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(242, 242, 242);
+  line-height: 50px;
+  font-size: 14px;
 }
 
 .footer a {
   display: block;
   text-decoration: none;
   color: rgba(0, 0, 0, 0.54);
+}
+
+.footer .left-link {
+  float: left;
+  padding-left: 29px;
+}
+
+.footer .right-link {
+  float: right;
+  padding-right: 29px;
 }
 
 .clearfix {
