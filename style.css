@@ -49,6 +49,58 @@ body {
   text-decoration: none;
 }
 
-.blue-link:hover {
+.blue-link:hover,
+.blue-link:active {
   text-decoration: underline;
+  color: #2f26b3;
+}
+
+.navbar {
+  display: block;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar .left-link {
+  float: left;
+  padding-left: 19px;
+}
+
+.navbar .right-link {
+  float: right;
+  padding-right: 19px;
+}
+
+.navbar .right-image {
+  float: right;
+  padding-right: 1px;
+  border-radius: 50%;
+  padding-top: 5px;
+}
+
+.navbar .right-image:hover {
+  cursor: pointer;
+}
+
+.navbar a {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  color: #000;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.clearfix {
+  content: "";
+  clear: both;
+  display: table;
 }
