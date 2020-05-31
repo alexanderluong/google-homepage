@@ -77,9 +77,9 @@ ul {
 
 .navbar .right-image {
   float: right;
-  padding-right: 1px;
+  margin-right: 20px;
   border-radius: 50%;
-  padding-top: 5px;
+  margin-top: 5px;
 }
 
 .navbar .right-image:hover {
