@@ -101,6 +101,18 @@ ul {
 .footer {
   color: rgba(0, 0, 0, 0.54);
   margin-left: -10px;
+  width: 100%;
+}
+
+.footer p {
+  background-color: rgb(242, 242, 242);
+  line-height: 50px;
+  font-size: 14px;
+  padding-left: 29px;
+  position: fixed;
+  width: 100%;
+  bottom: 35px;
+  border-top: 1px solid #e4e4e4;
 }
 
 .footer ul {
@@ -110,6 +122,7 @@ ul {
   background-color: rgb(242, 242, 242);
   line-height: 50px;
   font-size: 14px;
+  border-top: 1px solid #e4e4e4;
 }
 
 .footer a {
