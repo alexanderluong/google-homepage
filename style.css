@@ -44,3 +44,11 @@ body {
 .button:focus {
   border: 1px solid #4d90fe;
 }
+
+.blue-link {
+  text-decoration: none;
+}
+
+.blue-link:hover {
+  text-decoration: underline;
+}
